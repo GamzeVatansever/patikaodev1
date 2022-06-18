@@ -1,0 +1,30 @@
+h4{
+    display: inline-block;
+}
+a{
+    text-align: center;
+   
+    color: beige;
+}
+h1{
+    text-align: center;
+}
+.center{
+    text-align: center;
+
+}
+li{ text-align: center;
+    
+}
+ol{
+    text-align: center;
+    display:table; margin:0 auto;
+}
+ul{ 
+    display:table; margin:0 auto;
+}
+
+.jumbotron{
+    text-align: center;
+    list-style-position: inside
+}
